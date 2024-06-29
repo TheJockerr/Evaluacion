@@ -1,5 +1,6 @@
 # Evaluacion
 Prueba de programacion
+
 CONTEXTO
 Un banco internacional ha solicitado una aplicación en Python para analizar y gestionar los datos financieros de sus clientes. La aplicación debe manejar datos sensibles, realizar cálculos complejos y generar informes detallados. Este proyecto tiene una alta complejidad debido a la necesidad de precisión en los cálculos financieros y la gestión segura de la información.
 
@@ -16,4 +17,5 @@ REQUERIMIENTOS DE LA APLICACIÓN:
 
 * EL PROGRAMA ESTÁ DISEÑADO CON VALIDACIÓN DE ERRORES, CON TODO LO SOLICITADO EN EL PROYECTO
 Saludos
+
 David Salazar Carreño
