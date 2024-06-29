@@ -16,6 +16,8 @@ REQUERIMIENTOS DE LA APLICACIÓN:
 5.  Salir del programa: Opción para salir del programa con un mensaje de despedida.
 
 * EL PROGRAMA ESTÁ DISEÑADO CON VALIDACIÓN DE ERRORES, CON TODO LO SOLICITADO EN EL PROYECTO
+
+
 Saludos
 
 David Salazar Carreño
